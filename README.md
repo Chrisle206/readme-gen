@@ -21,6 +21,9 @@ Tired of having to create README.md files for every project when the layout is m
 6) README.md file generated!
 
 ## Usage
+Example README.md from generator:
+![image](https://user-images.githubusercontent.com/89957990/150925156-d20bc30a-e65d-4d03-93b1-d299aa353187.png)
+
 
 Questions prompted to user: 
 ![image](https://user-images.githubusercontent.com/89957990/150918121-64aa04b5-552a-45f3-9337-be1b6fc16d19.png)
