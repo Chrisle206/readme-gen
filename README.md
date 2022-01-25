@@ -22,7 +22,9 @@ Tired of having to create README.md files for every project when the layout is m
 
 ## Usage
 
-Questions prompted to user:
+Questions prompted to user: 
+![image](https://user-images.githubusercontent.com/89957990/150918121-64aa04b5-552a-45f3-9337-be1b6fc16d19.png)
+
 
 
 ## Video-tutorial
